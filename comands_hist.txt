@@ -1,0 +1,110 @@
+    1  ls
+    2  pwd
+    3  pwd
+    4  ls
+    5  mkdir test_app
+    6  ls
+    7  cd test_app
+    8  cd ..
+    9  pwd
+   10  cd test_app
+   11  ls
+   12  cd ..
+   13  ls
+   14  cd 'Format Factory'
+   15  ls
+   16  cd test app
+   17  cd 'test app'
+   18  mkdir f1, f2, f3
+   19  rmdir f1
+   20  rmdir  f1,
+   21  rmdir f2, f3
+   22  rmdir f3
+   23  rm-r f3
+   24  rm -r f3
+   25  ls
+   26  touch f1.xlxs
+   27  ls
+   28  touch f2.xlsx
+   29  ls
+   30  cd 'Excel Notes 01 july.txt'
+   31  cat 'Excel Notes 01 July.txt
+   32  pwd
+   33  wd
+   34  clear
+   35  clear
+   36  pwd
+   37  ls
+   38  cd 'test app'
+   39  touch new.txt
+   40  cat new.txt
+   41  nano new.txt
+   42  nano new.txt
+   43  nano new.txt
+   44  nano new.txt
+   45  cat new.txt
+   46  nano new.txt
+   47  cat new.txt
+   48  cd ..
+   49  cd 'Local Disk D'
+   50  rm _r 'test ap'
+   51  rm _r 'test app'
+   52  rm -r 'test app'
+   53  mkdir test_app
+   54  touch f1.py f2.txt f3.sql f4.py
+   55  cd test_app
+   56  ls
+   57  cd ..
+   58  rmdir f1.py f2.txt f3.sql f4.py
+   59  pwd
+   60  cd test_app
+   61  mkdir f1.py f2.txt f3.sql f4.py
+   62  ls
+   63  rmdir f1.py f2.txt f3.sql f4.py
+   64  ls
+   65  touch f1.py f2.txt f3.sql f4.py
+   66  pwd
+   67  ls
+   68  cd test_app
+   69  ls
+   70  git init
+   71  ls -a
+   72  rm -r.git
+   73  rm -r .git
+   74  git init
+   75  ls -a
+   76  rm -r .git
+   77  git init
+   78  git config --list
+   79  ls
+   80  ls -a
+   81  git config --list
+   82  git config --global user.name 'Kutty1407'
+   83  git config --global user.email 'kuttyarmyshss@gmail.com'
+   84  git config --list
+   85  git remote -v
+   86  git remote add origin https://github.com/Kutty1407/test_app.git
+   87  git remote -v
+   88  git status
+   89  git add f1.py f2.txt
+   90  git status
+   91  git rm --cached f1.y f2.txt
+   92  git rm --cached f1.py f2.txt
+   93  git status
+   94  git add .
+   95  git status
+   96  git rm --cached f1.py f2.txt f3.sql f4.py
+   97  git status
+   98  git status
+   99  git add .
+  100  git status
+  101  git commit -m 'First Commit'
+  102  git status
+  103  git branch -m master main
+  104  git status
+  105  git push -f origin main
+  106  git push -f origin main
+  107  git branch --set-upstream-to=origin/main
+  108  git pull
+  109  git pull
+  110  history >comands_hist.txt
